@@ -1,5 +1,5 @@
 {
-  "name": "test-publish-git",
+  "name": "@iamgururaj/test-publish-git",
   "version": "0.1.0",
   "main": "build/index.js",
   "repository": "https://github.com/iamgururaj/test-publish-git.git",
