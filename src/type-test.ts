@@ -3,7 +3,7 @@ export interface TypeTestProp {
     b: number
 }
 
-export default function typeTest(typeProp: TypeTestProp) {
+export function typeTest(typeProp: TypeTestProp) {
     return [new Date(), typeProp.a + typeProp.b];
 }
 

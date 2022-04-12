@@ -1,6 +1,6 @@
 {
   "name": "@iamgururaj/test-publish-git",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "build/index.js",
   "repository": "https://github.com/iamgururaj/test-publish-git.git",
   "author": "Gururaj <gururaj.ceg@gmail.com>",
