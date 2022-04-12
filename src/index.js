@@ -7,3 +7,5 @@ export function gitPublishFunctionTwo(a, b) {
   console.log("${a} ${b} passed to anotherTestFunction successfully");
   return a % b;
 }
+
+export * from "./type-test.ts";
